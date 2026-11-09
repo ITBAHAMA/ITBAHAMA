@@ -15,4 +15,4 @@ The IT team behind **Bahama Realty and Development Corporation (BRDC)**, support
 
 ### Reach us
 
-[Website](https://example.com) · [Email](mailto:it@example.com)
+[Website](https://www.brdc.ph/) · [Email](mailto:it@example.com)
